@@ -7,30 +7,30 @@
     </title-page>
 
     <dedicatoria>
-        <p>A todos que sofreram e ainda sofrem com as atrocidades e o impacto ambiental causado pelo ser humano.</p>
+        <p-first>A todos que sofreram e ainda sofrem com as atrocidades e o impacto ambiental causado pelo ser humano.</p-first>
     </dedicatoria>
 
     <agradecimentos>
         <h1>Agradecimento</h1>
-        <p>Agradeço aos que me apoiaram a dar continuidade ao mundo de fantasia, aventura e mistério de <i>Animalior</i>, colaborando com a concretização deste livro: minha mãe, Iracema; meu pai, Gianpiero; minha irmã, Bianca; meus tios, François e Regina; minha tia Márcia; Felipe; Patrícia; Cadu; e os meus amigos: Antônio Pedro Raposo; Bernardo Aragão; Bernardo Rodemburg; Carlos Alberto Trindade; Eduardo Azevedo; Flávio Galdino; Frederico Moura; Jaime Gestal; João Felipe Varella; João Mendes; Joaquim Monteiro; Miguel Ramos; Pedro Moreira; Renato Amorim; Renato Balbi; Ricardo Borgerth; Roberto Motta e Rogério Karp.</p>
+        <p-first>Agradeço aos que me apoiaram a dar continuidade ao mundo de fantasia, aventura e mistério de <i>Animalior</i>, colaborando com a concretização deste livro: minha mãe, Iracema; meu pai, Gianpiero; minha irmã, Bianca; meus tios, François e Regina; minha tia Márcia; Felipe; Patrícia; Cadu; e os meus amigos: Antônio Pedro Raposo; Bernardo Aragão; Bernardo Rodemburg; Carlos Alberto Trindade; Eduardo Azevedo; Flávio Galdino; Frederico Moura; Jaime Gestal; João Felipe Varella; João Mendes; Joaquim Monteiro; Miguel Ramos; Pedro Moreira; Renato Amorim; Renato Balbi; Ricardo Borgerth; Roberto Motta e Rogério Karp.</p-first>
     </agradecimentos>
 
     <sumario>
         <h1>Sumário</h1>
-        <p>Palavras do autor sobre esta história</p>
-        <p>Capítulo 1 – Os liores</p>
-        <p>Capítulo 2 – Águas desconhecidas</p>
-        <p>Capítulo 3 – Explorando a ilha</p>
-        <p>Capítulo 4 – Traição inesperada</p>
-        <p>Capítulo 5 – Babus no caminho</p>
-        <p>Capítulo 6 – Dormindo com o inimigo</p>
-        <p>Capítulo 7 – A batalha de Leth</p>
-        <p>Capítulo 8 – Nova rota</p>
+        <p-toc>Palavras do autor sobre esta história</p-toc>
+        <p-toc>Capítulo 1 – Os liores</p-toc>
+        <p-toc>Capítulo 2 – Águas desconhecidas</p-toc>
+        <p-toc>Capítulo 3 – Explorando a ilha</p-toc>
+        <p-toc>Capítulo 4 – Traição inesperada</p-toc>
+        <p-toc>Capítulo 5 – Babus no caminho</p-toc>
+        <p-toc>Capítulo 6 – Dormindo com o inimigo</p-toc>
+        <p-toc>Capítulo 7 – A batalha de Leth</p-toc>
+        <p-toc>Capítulo 8 – Nova rota</p-toc>
     </sumario>
 
     <prefacio>
         <h1>Palavras do autor sobre esta história</h1>
-        <p>Até que ponto alguns humanos e liores são capazes de chegar por dinheiro e poder? Ao ponto de aprisionar, explorar e escravizar? De investir em armamentos cada vez mais destrutivos? De destruir o meio ambiente? Tais questões são levantadas nessa sequência, mas é triste pensar que tudo isso ainda acontece no mundo real.</p>
+        <p-first>Até que ponto alguns humanos e liores são capazes de chegar por dinheiro e poder? Ao ponto de aprisionar, explorar e escravizar? De investir em armamentos cada vez mais destrutivos? De destruir o meio ambiente? Tais questões são levantadas nessa sequência, mas é triste pensar que tudo isso ainda acontece no mundo real.</p-first>
         <p>Trabalho, pesquisas, desenvolvimento e produção para geração de valor e riqueza são saudáveis e fundamentais para a sociedade. Todavia, os meios para alcançá-los não devem ferir a dignidade e o bem-estar dos seres humanos, tampouco maltratar outras espécies de animais e degradar o meio ambiente.</p>
         <p>A indústria que produz com exploração de trabalho infantil, que polui o meio ambiente ou não se preocupa com a comunidade local não é digna de receber um valor em capital por seus produtos. Felizmente, o poder encontra-se nas mãos dos consumidores, embora muitos deles ainda não tenham se dado conta disso. Com consumidores exigentes, que mudam seu comportamento em prol do planeta, a empresa que não mantém a atitude correta desmorona gradativamente ou se vê obrigada a entrar nos eixos, contribuindo para o desenvolvimento de um mundo melhor. Portanto, é fundamental abraçar e exigir valores morais compreendidos pela conduta ética nos negócios e na política, tais como: honestidade, respeito pelos humanos e animais, sustentabilidade, confiabilidade, justiça e, principalmente, mudar nosso comportamento para moldar um mundo que favorecerá seus habitantes.</p>
         <p>Voltando ao tema da série Animalior, após enfrentarem perigos inesperados, os irmãos Sam e Sue retornam ao mundo paralelo com seus pais, a tripulação do barco de pesquisas científicas Hope e os amigos que os haviam levado para casa Dolfi, Dolfinho, Jubi e Pipirot.</p>
@@ -43,7 +43,7 @@
     <capitulo-1>
         <h1>Capítulo 1</h1>
         <h2>Os liores</h2>
-        <p>O veleiro de pesquisas científicas Hope navega a 40 milhas náuticas da costa na companhia de um barco de apoio da guarda costeira. O Dr. Hermann Sullivan, cientista líder do Hope, está em estado de êxtase por ter sua família reunida novamente após sete longos anos e por conhecer alguns liores ― nome dado aos animais que vivem em Animalior.</p>
+        <p-first>O veleiro de pesquisas científicas Hope navega a 40 milhas náuticas da costa na companhia de um barco de apoio da guarda costeira. O Dr. Hermann Sullivan, cientista líder do Hope, está em estado de êxtase por ter sua família reunida novamente após sete longos anos e por conhecer alguns liores ― nome dado aos animais que vivem em Animalior.</p-first>
         <p>Esse mundo paralelo já havia sido visitado por ele e sua esposa, a Dra. Anne Sullivan, há sete anos, em uma breve expedição, quando procuravam por seus filhos Sam e Sue. Mais surpreendente que descobrir e acessar mundos em outras dimensões é saber que a baleia Jubi, os golfinhos Dolfi e Dolfinho e o papagaio Pipirot podem se comunicar com ele e, inacreditavelmente, ajudaram seus filhos a encontrar um caminho de volta para casa.</p>
         <p>Neste momento, Dr. Hermann sente-se no dever de levá-los de volta a Animalior e ter a oportunidade de explorar de forma minuciosa esse mundo que seus filhos descreveram com entusiasmo nas horas que se passaram após terem sido resgatados.</p>
         <p>As tripulações dos dois barcos têm um número considerável de pessoas, e a presença dos animais falantes que ajudaram e trouxeram as duas crianças de outro mundo gera muita polêmica e espanto.</p>
@@ -111,7 +111,7 @@
     <capitulo-2>
         <h1>Capítulo 2</h1>
         <h2>Águas desconhecidas</h2>
-        <p>Não demora muito para Dolfi e Dolfinho perceberem que estão em casa. Os irmãos fazem manobras nas ondulações enquanto nadam em direção à baía de Leth. O portal de entrada foi aberto bem próximo à ilha e os homens a bordo comemoram o sucesso da passagem. Sem perder tempo, eles caçam as velas do grande veleiro para ganhar velocidade. Estão ansiosos para ver tudo o que a ilha tem a lhes mostrar.</p>
+        <p-first>Não demora muito para Dolfi e Dolfinho perceberem que estão em casa. Os irmãos fazem manobras nas ondulações enquanto nadam em direção à baía de Leth. O portal de entrada foi aberto bem próximo à ilha e os homens a bordo comemoram o sucesso da passagem. Sem perder tempo, eles caçam as velas do grande veleiro para ganhar velocidade. Estão ansiosos para ver tudo o que a ilha tem a lhes mostrar.</p-first>
         <p>É um fim de tarde tranquilo na baía de Leth, as gaivotas começam a fazer barulho, Mambu e Tambu, os dois irmãos micos, correm para a copa da árvore da Sra. Slot:</p>
         <p>― Dolfi, Dolfinho e Jubi chegaram! Tem um grande barco logo atrás deles! ― proclama Tambu, eufórico.</p>
         <p>― Será que estão em perigo?! ― indaga Mambu. ― Será que são piratas? Ou babus?!</p>
@@ -162,7 +162,7 @@
     <capitulo-3>
         <h1>Capítulo 3</h1>
         <h2>Explorando a ilha</h2>
-        <p>Uma vez que o desembarque é autorizado e a tripulação já está preparada, um bote de apoio inflável cheio de equipamentos é colocado no mar. Os irmãos Edward e Tom, acompanhados de Martin e Pedro, embarcam no bote carregado. A família do Dr. Hermann embarca em um segundo bote, acompanhada de Lúcia, Sofia e Gabriel. Jeffrey e Vola permanecem no barco.</p>
+        <p-first>Uma vez que o desembarque é autorizado e a tripulação já está preparada, um bote de apoio inflável cheio de equipamentos é colocado no mar. Os irmãos Edward e Tom, acompanhados de Martin e Pedro, embarcam no bote carregado. A família do Dr. Hermann embarca em um segundo bote, acompanhada de Lúcia, Sofia e Gabriel. Jeffrey e Vola permanecem no barco.</p-first>
         <p>Eles utilizam o deque flutuante para atracar. Vários animais ocupam a praia para acompanhar a chegada dos novos humanos e rever Sam e Sue. Os dois são os primeiros a desembarcar, correndo em direção aos animais.</p>
         <p>Depois dos calorosos cumprimentos com a turma da ilha, Tortuguito resolve manifestar-se:</p>
         <p>― Não esperávamos revê-los. Muito menos em tão pouco tempo. De qualquer forma, estamos contentes com a visita.</p>
@@ -261,7 +261,7 @@
     <capitulo-4>
         <h1>Capítulo 4</h1>
         <h2>Traição inesperada</h2>
-        <p>No caminho, Dr. Hermann questiona Tom, como havia procedido na noite anterior com Martin, sobre o tipo de formação rochosa da ilha, sua composição e idade do local, de acordo com a medição de carbono 14.</p>
+        <p-first>No caminho, Dr. Hermann questiona Tom, como havia procedido na noite anterior com Martin, sobre o tipo de formação rochosa da ilha, sua composição e idade do local, de acordo com a medição de carbono 14.</p-first>
         <p>― Trata-se de uma ilha vulcânica e oceânica de caráter atípico. Possui a maior riqueza de minerais que já presenciei em um tipo de formação como esta ― responde Tom, e prossegue: ― Existe um considerável valor comercial nesta ilha, Dr. Hermann, acho que temos que repensar no propósito desta expedição.</p>
         <p> ― Do que está falando, Tom? ― indaga, surpreso, o capitão. ― Você conhece a minha postura. Estamos aqui exclusivamente por fins científicos. Nossa recompensa financeira será fruto dessa ciência.</p>
         <p>― A ciência é cara, Dr. Hermann. O que há de errado em minimizarmos os nossos custos?</p>
@@ -343,7 +343,7 @@
     <capitulo-5>
         <h1>Capítulo 5</h1>
         <h2>Babus no caminho</h2>
-        <p>Na praia, Dr. Hermann, Dra. Sullivan, Lúcia, Vola e Sue, ainda presos e chocados com a traição, acompanham o Hope se distanciar cada vez mais da ilha.</p>
+        <p-first>Na praia, Dr. Hermann, Dra. Sullivan, Lúcia, Vola e Sue, ainda presos e chocados com a traição, acompanham o Hope se distanciar cada vez mais da ilha.</p-first>
         <p>― E agora, Hermann? Como iremos para casa com o teletransportador antigo? ― questiona a esposa.</p>
         <p>― Estou com um <i>pen drive</i> que pode atualizar o sistema desse teletransportador ― confidencia o capitão. ― Teremos mais controle do local de abertura do portal. Com um pouco de sorte, conseguiremos voltar para casa em algum momento. Se Martin e os traidores pensam que saíram ilesos dessa, estão muito enganados. As contas serão acertadas quando chegarmos em casa.</p>
         <p>***</p>
@@ -423,7 +423,7 @@
     <capitulo-6>
         <h1>Capítulo 6</h1>
         <h2>Dormindo com o inimigo</h2>
-        <p>Em Leth, Sam e Sofia, que estavam escondidos na mata, voltam à praia ao perceberem que os traidores já haviam partido. Com certa dificuldade, desamarram Dr. Hermann, que exclama:</p>
+        <p-first>Em Leth, Sam e Sofia, que estavam escondidos na mata, voltam à praia ao perceberem que os traidores já haviam partido. Com certa dificuldade, desamarram Dr. Hermann, que exclama:</p-first>
         <p>― Ainda bem que não foram pegos!</p>
         <p>Com as mãos livres, ele pega um canivete no bolso e corta as cordas que prendem a esposa, Sue, Lúcia, Vola e Gabriel, o qual havia registrado todo o motim.</p>
         <p>Juntos, vão até a cidade dos liores e deparam com um lugar devastado. Os animais que perderam seus familiares estão arrasados. Mambu, que havia sido um deles, tenta, de alguma forma, consolar a comunidade. Dr. Hermann afirma que ele e o grupo restante irão atrás dos animais e os trarão de volta a salvo para Leth, mas que, primeiramente, ainda teriam que desenvolver uma estratégia para enfrentar os babus que estavam a caminho.</p>
@@ -465,7 +465,7 @@
     <capitulo-7>
         <h1>Capítulo 7</h1>
         <h2>A batalha de Leth</h2>
-        <p>Antes do amanhecer, as gaivotas levantam voo em silêncio na direção da frota inimiga. Apesar da dificuldade da manobra, elas são bem-sucedidas. Um marujo dormindo no convés de um dos barcos acorda com um banho gosmento que escorre de uma das velas de seu barco. Aos poucos, outros babus vão acordando da mesma forma. O óleo gosmento está se espalhando pelas velas e conveses dos diversos barcos que estão mais próximos da praia. Trata-se do óleo de mamona, uma substância inflamável. Assim, os marinheiros avistam dezenas de bolas de fogo se aproximando e fazem soar o alarme. É o início da batalha!</p>
+        <p-first>Antes do amanhecer, as gaivotas levantam voo em silêncio na direção da frota inimiga. Apesar da dificuldade da manobra, elas são bem-sucedidas. Um marujo dormindo no convés de um dos barcos acorda com um banho gosmento que escorre de uma das velas de seu barco. Aos poucos, outros babus vão acordando da mesma forma. O óleo gosmento está se espalhando pelas velas e conveses dos diversos barcos que estão mais próximos da praia. Trata-se do óleo de mamona, uma substância inflamável. Assim, os marinheiros avistam dezenas de bolas de fogo se aproximando e fazem soar o alarme. É o início da batalha!</p-first>
         <p>Um segundo bando de gaivotas carrega bolas de fogo banhadas em óleo de mamona por um cabo e as soltam nos dez barcos mais próximos da baía. As catapultas entram em ação e ajudam a afundar os barcos que já estavam em chamas.</p>
         <p>Dron Tempestade acorda enfurecido. Já está quase amanhecendo e o capitão percebe que perderá toda sua frota se não reagir rápido. Só há uma coisa a fazer contra o ataque aéreo das gaivotas. Ele avista um terceiro bando se aproximando com o óleo de mamona e, usando um megafone de concha, ordena:</p>
         <p>― Joguem agora no mar todo o suprimento de ração de gaivota!</p>
@@ -535,7 +535,7 @@
     <capitulo-8>
         <h1>Capítulo 8</h1>
         <h2>A nova rota</h2>
-        <p>De pé bem cedo, a tripulação está preparada para a partida. As velas remendadas são içadas e o Hope deixa a baía de Leth, quando Pipirot chega voando:</p>
+        <p-first>De pé bem cedo, a tripulação está preparada para a partida. As velas remendadas são içadas e o Hope deixa a baía de Leth, quando Pipirot chega voando:</p-first>
         <p>― Esperem por mim!</p>
         <p>― Vai conosco, Pipirot? ― pergunta Sam.</p>
         <p>― Um verdadeiro pirata não abandona a sua tripulação!</p>
@@ -571,7 +571,7 @@
 
     <biografia>
         <h1>Biografia</h1>
-        <p>Gianfranco Cacciola é leitor de ciência, tecnologia e história; aprecia as artes, a diversidade cultural e os novos desafios, o que o motivou a estudar e trabalhar nos Estados Unidos, França e Inglaterra. Nesta concluiu mestrado em Marketing pela Leeds Beckett University. Em 2011, finalizou ainda uma pós-graduação em Design de Joias e Ourivesaria pela PUC-RIO, área na qual trabalha até hoje.</p>
+        <p-first>Gianfranco Cacciola é leitor de ciência, tecnologia e história; aprecia as artes, a diversidade cultural e os novos desafios, o que o motivou a estudar e trabalhar nos Estados Unidos, França e Inglaterra. Nesta concluiu mestrado em Marketing pela Leeds Beckett University. Em 2011, finalizou ainda uma pós-graduação em Design de Joias e Ourivesaria pela PUC-RIO, área na qual trabalha até hoje.</p-first>
         <p>Durante sua trajetória universitária e profissional, sempre esteve ligado ao meio criativo, inicialmente como publicitário, realizando trabalhos de criação em roteiros de comerciais, anúncios e outros textos da área. Em um segundo momento, como designer de joias, conquistou algumas premiações. Em 2015, foi finalista do Auditions Brasil, o maior concurso de joias em ouro do mundo.</p>
         <p>Após a publicação de <i>Animalior: a descoberta de um mundo incomum</i>, em 2017, o autor dá continuidade à série com este segundo volume. Gianfranco segue aprimorando o conhecimento no universo literário e alimentando a paixão pela criação no campo da ficção infantojuvenil. Filho de pai italiano e mãe brasileira, nasceu em São Paulo e se mudou para o Rio de Janeiro ainda pequeno. Cresceu próximo à vida marinha, fazendo mergulho de apneia, pescando e praticando esportes aquáticos. Ele adora animais e já teve um adorável Golden Retriever chamado Billi, e hoje vive com um Border Collie superesperto chamado Luppo.</p>
     </biografia>
